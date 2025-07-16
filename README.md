@@ -37,13 +37,6 @@
 
 ---
 
-## 📫 Connect with Me
-
-- ✉️ Email: **a.rezgui@esi-sba.dz**
-- 💼 LinkedIn: [Profile](https://linkedin.com/in/abdelhadi-rezgui-94b478374/)
-
----
-
 ## 💬 Philosophy
 
 > "Build something today that your future self will be proud of."  
