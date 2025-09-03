@@ -12,7 +12,7 @@
 - 🧪 Always experimenting with **JavaScript**, animations & responsive design  
 - 👨‍💻 Love making games, utilities, and interactive web apps  
 - 🎯 My goal is to become a senior full-stack engineer and contribute to open source  
-- 🗣️ I speak English, Arabic, French, Spanish and code fluently  
+- 🗣️ I speak English, Arabic, French, and code fluently  
 
 ---
 
